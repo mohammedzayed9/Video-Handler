@@ -1,10 +1,10 @@
 # -Automated-Video-Handler
 This App is designed to simplify and automate various video processing tasks.  It provides a user-friendly interface for selecting a folder containing video files and performing specific operations on those files.
 
-Video Automation App
+##Video Automation App
 This application allows you to automate various video processing tasks using Python and PyQt5. It provides a user-friendly interface to select a folder containing videos and perform tasks such as segmentation, format conversion, audio extraction, video resizing, frame extraction, thumbnail generation, and metadata extraction.
 
-Features
+##Features
 Segment Videos: Split videos into segments based on a specified ratio.
 Convert Format: Convert videos to a different format, such as AVI, MP4, or MOV.
 Extract Audio: Extract the audio track from videos and save it as an MP3 file.
@@ -22,18 +22,18 @@ Monitor the processing progress and current task displayed in the application wi
 Once the processing is complete, a message will be shown indicating the success or any errors encountered.
 Note: The processed videos and generated files will be saved in separate folders within the selected folder, based on the chosen tasks.
 
-Requirements
+##Requirements
 Python 3.x
 PyQt5
 OpenCV (cv2)
 moviepy
-Author
+##Author
 Mohammed Zayed
 
-License
+##License
 This project is licensed under the MIT License.
 
-Acknowledgements
+##Acknowledgements
 PyQt5: Python bindings for Qt framework
 OpenCV: Computer vision library
 moviepy: Video editing library
