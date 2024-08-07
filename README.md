@@ -1,7 +1,7 @@
-# -Automated-Video-Handler
+# Video-Handler
 This App is designed to simplify and automate various video processing tasks.  It provides a user-friendly interface for selecting a folder containing video files and performing specific operations on those files.
 
-# Automated Video Handler
+#  Video Handler
 
 This App is designed to simplify and automate various video processing tasks. It provides a user-friendly interface for selecting a folder containing video files and performing specific operations on those files.
 
@@ -25,7 +25,7 @@ This application allows you to automate various video processing tasks using Pyt
 2. Choose the desired tasks to perform on the videos by checking the corresponding checkboxes.
 3. Adjust any task-specific settings, such as the segment ratio, output format, resize resolution, etc.
 4. Enable the "Extract Metadata" checkbox if you want to extract metadata information from the videos.
-5. Click the "Process Videos" button to start the automated video processing.
+5. Click the "Process Videos" button to start the  video processing.
 6. Monitor the processing progress and current task displayed in the application window.
 7. Once the processing is complete, a message will be shown indicating the success or any errors encountered.
 
